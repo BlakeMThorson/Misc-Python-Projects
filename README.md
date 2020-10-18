@@ -1,4 +1,5 @@
 # Misc-Python-Projects
 
-Hello, this is a barely organlized backup of my python projects.
-In a day or two, this will all be documented!
+Thanks for checking out my repo, this is a collection of all the different py files from my drives that I'm trying to backup. I have categorized them and each category contains a detailed explaination of each project.
+
+To view all of my projects, or to hire me, please visit BeningKing.xyz
